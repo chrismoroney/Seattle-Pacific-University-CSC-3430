@@ -91,9 +91,9 @@ One of the biggest difficulties in this particular problem is coming up with an 
 
 ## Program Results:
 - Results for group1.txt; 16 people, group size of 5: [smallgroups1.txt](community_small_groups
-/smallgroups1.txt) & [screenshot](community_small_groups/group1Screenshot.png)
+/smallgroups1.txt) & [screenshot](Seattle-Pacific-University-CSC-3430 / community_small_groups / group1Screenshot.png)
 - Results for group2.txt; 29 people, group size of 7: [smallgroups2.txt](community_small_groups
-/smallgroups2.txt) & [screenshot](community_small_groups/group2Screenshot.png)
+/smallgroups2.txt) & [screenshot](Seattle-Pacific-University-CSC-3430 / community_small_groups / group2Screenshot.png)
 - Results for group1.txt; 34 people, group size of 8: [smallgroups3.txt](community_small_groups
-/smallgroups3.txt) & [screenshot](community_small_groups/group3Screenshot.png)
+/smallgroups3.txt) & [screenshot](Seattle-Pacific-University-CSC-3430 / community_small_groups / group3Screenshot.png)
 
