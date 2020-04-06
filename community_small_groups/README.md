@@ -14,6 +14,7 @@ Files included in respository:
 - `group1Screenshot.png` screenshot of program run with group 1 in groups of 5
 - `group2Screenshot.png` screenshot of program run with group 2 in groups of 7
 - `group3Screenshot.png` screenshot of program run with group 3 in groups of 8
+- `SmallGroups-Graph.pdf` assignment details
 
 # Creating Community Small Groups
 A work by Katie Honsinger and Christopher Moroney
