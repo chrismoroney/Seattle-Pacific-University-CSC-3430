@@ -90,7 +90,10 @@ We believe that our algorithm is not the perfect O(n^2), but is pretty close to 
 One of the biggest difficulties in this particular problem is coming up with an algorithm that will assign groups with the married couples. The married couples really screw up some of the group proportioning at times, and it is very difficult to deal with sometimes. Thus, sometimes there is an assignment or groups where one group may have more names than others. Being able to account for this was difficult, so what we did was we redefined the Node class specifically just for married couples. What we did was when we read in from the text file that names were on the same line and separated by a comma, they were considered married, but also counted as two people. One of the variables we used was to account for the total number of people in a group, and so when we assigned groups, we would add two people to the group instead of just one. 
 
 ## Program Results:
-- Results for group1.txt; 16 people, group size of 5: [smallgroups1.txt](community_smallgroups/smallgroups1.txt) & [screenshot](community_smallgroups/group1Screenshot.png)
-- Results for group2.txt; 29 people, group size of 7: [smallgroups2.txt](community_smallgroups/smallgroups2.txt) & [screenshot](community_smallgroups/group2Screenshot.png)
-- Results for group1.txt; 34 people, group size of 8: [smallgroups3.txt](community_smallgroups/smallgroups3.txt) & [screenshot](community_smallgroups/group3Screenshot.png)
+- Results for group1.txt; 16 people, group size of 5: [smallgroups1.txt](community_small_groups
+/smallgroups1.txt) & [screenshot](community_small_groups/group1Screenshot.png)
+- Results for group2.txt; 29 people, group size of 7: [smallgroups2.txt](community_small_groups
+/smallgroups2.txt) & [screenshot](community_small_groups/group2Screenshot.png)
+- Results for group1.txt; 34 people, group size of 8: [smallgroups3.txt](community_small_groups
+/smallgroups3.txt) & [screenshot](community_small_groups/group3Screenshot.png)
 
