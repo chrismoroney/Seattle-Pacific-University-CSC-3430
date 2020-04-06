@@ -1,7 +1,5 @@
 # Creating Community Small Groups
 
-[Term Project Details](SmallGroups-Graph.pdf)
-
 Files included in respository:
 - `group1.txt` a file with 16 names
 - `group2.txt` a file with 29 names
@@ -13,6 +11,9 @@ Files included in respository:
 - `smallgroups1.txt` example of project run with group1.txt 
 - `smallgroups2.txt` example of project run with group2.txt
 - `smallgroups3.txt` example of project run with group3.txt 
+- `group1Screenshot.png` screenshot of program run with group 1 in groups of 5
+- `group2Screenshot.png` screenshot of program run with group 2 in groups of 7
+- `group3Screenshot.png` screenshot of program run with group 3 in groups of 8
 
 # Creating Community Small Groups
 A work by Katie Honsinger and Christopher Moroney
