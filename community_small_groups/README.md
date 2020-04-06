@@ -1,7 +1,5 @@
 # Creating Community Small Groups
 
-[Term Project Details](SmallGroups-Graph.pdf)
-
 Files included in respository:
 - `group1.txt` a file with 16 names
 - `group2.txt` a file with 29 names
@@ -13,6 +11,9 @@ Files included in respository:
 - `smallgroups1.txt` example of project run with group1.txt 
 - `smallgroups2.txt` example of project run with group2.txt
 - `smallgroups3.txt` example of project run with group3.txt 
+- `group1Screenshot.png` screenshot of program run with group 1 in groups of 5
+- `group2Screenshot.png` screenshot of program run with group 2 in groups of 7
+- `group3Screenshot.png` screenshot of program run with group 3 in groups of 8
 
 # Creating Community Small Groups
 A work by Katie Honsinger and Christopher Moroney
@@ -88,9 +89,4 @@ The time complexity allowing each person to visit everyone else’s house is O(n
 We believe that our algorithm is not the perfect O(n^2), but is pretty close to this. The reason why we say that is because the number of edges required for every person to reach everyone else’s house is N * (N - 1), but sometimes, people will visit other hosts multiple times. Thus, we do not add the same number of edges to the graph for every single iteration. Sometimes, in extreme cases, we may only add one edge to the graph to indicate a person has visited another’s house, but in other cases every single node will add an edge to the graph. Still, all in all, our algorithm will still achieve O(n^2). 
 
 One of the biggest difficulties in this particular problem is coming up with an algorithm that will assign groups with the married couples. The married couples really screw up some of the group proportioning at times, and it is very difficult to deal with sometimes. Thus, sometimes there is an assignment or groups where one group may have more names than others. Being able to account for this was difficult, so what we did was we redefined the Node class specifically just for married couples. What we did was when we read in from the text file that names were on the same line and separated by a comma, they were considered married, but also counted as two people. One of the variables we used was to account for the total number of people in a group, and so when we assigned groups, we would add two people to the group instead of just one. 
-
-## Program Results:
-- Results for group1.txt; 16 people, group size of 5: [smallgroups1.txt](community_smallgroups/smallgroups1.txt) & [screenshot](community_smallgroups/group1Screenshot.png)
-- Results for group2.txt; 29 people, group size of 7: [smallgroups2.txt](community_smallgroups/smallgroups2.txt) & [screenshot](community_smallgroups/group2Screenshot.png)
-- Results for group1.txt; 34 people, group size of 8: [smallgroups3.txt](community_smallgroups/smallgroups3.txt) & [screenshot](community_smallgroups/group3Screenshot.png)
 
