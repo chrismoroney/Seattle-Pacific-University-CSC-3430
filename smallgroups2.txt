@@ -1,0 +1,306 @@
+SMALLGROUP ASSIGNMENTS:
+WEEK 1
+GROUP 1: Molly (hosting) | Jose, Audrey | Nick | Nathan | David | Christopher | Scott
+GROUP 2: Patrick (hosting) | Bridget | Dillon | Michael, Ann | Edgar, Fidelma
+GROUP 3: Monica (hosting) | Georgia | Myah | Veronica | Tyler | Zane | Oscar
+GROUP 4: Taira (hosting) | Sarah | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 2
+GROUP 1: Patrick (hosting) | Molly | Nick | Nathan | David | Christopher | Georgia | Pharah
+GROUP 2: Monica (hosting) | Bridget | Dillon | Michael, Ann | Edgar, Fidelma
+GROUP 3: Taira (hosting) | Myah | Veronica | Tyler | Zane | Oscar | Scott
+GROUP 4: Jose, Audrey (hosting) | Sarah | Bianca, Jacob | Josiah | Mia
+
+WEEK 3
+GROUP 1: Monica (hosting) | Molly | Patrick | Nathan | David | Christopher | Sarah | Scott
+GROUP 2: Taira (hosting) | Bridget | Dillon | Michael, Ann | Edgar, Fidelma
+GROUP 3: Jose, Audrey (hosting) | Georgia | Myah | Veronica | Tyler | Zane
+GROUP 4: Nick (hosting) | Oscar | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 4
+GROUP 1: Taira (hosting) | Molly | Patrick | Monica | David | Christopher | Georgia
+GROUP 2: Jose, Audrey (hosting) | Bridget | Dillon | Michael, Ann | Oscar | Scott
+GROUP 3: Nick (hosting) | Edgar, Fidelma | Myah | Veronica | Tyler | Zane
+GROUP 4: Nathan (hosting) | Sarah | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 5
+GROUP 1: Jose, Audrey (hosting) | Molly | Patrick | Monica | Taira | Christopher
+GROUP 2: Nick (hosting) | Bridget | Dillon | Michael, Ann | Georgia | Sarah | Scott
+GROUP 3: Nathan (hosting) | Edgar, Fidelma | Myah | Veronica | Tyler | Zane
+GROUP 4: David (hosting) | Oscar | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 6
+GROUP 1: Nick (hosting) | Molly | Patrick | Monica | Taira | Jose, Audrey
+GROUP 2: Nathan (hosting) | Bridget | Dillon | Michael, Ann | Georgia | Oscar | Scott
+GROUP 3: David (hosting) | Edgar, Fidelma | Myah | Veronica | Tyler | Zane
+GROUP 4: Christopher (hosting) | Sarah | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 7
+GROUP 1: Nathan (hosting) | Molly | Patrick | Monica | Taira | Jose, Audrey
+GROUP 2: David (hosting) | Nick | Dillon | Michael, Ann | Georgia | Sarah | Scott
+GROUP 3: Christopher (hosting) | Edgar, Fidelma | Myah | Veronica | Tyler | Zane
+GROUP 4: Bridget (hosting) | Oscar | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 8
+GROUP 1: David (hosting) | Molly | Patrick | Monica | Taira | Jose, Audrey
+GROUP 2: Christopher (hosting) | Nick | Nathan | Michael, Ann | Georgia | Oscar | Scott
+GROUP 3: Bridget (hosting) | Edgar, Fidelma | Myah | Veronica | Tyler | Zane
+GROUP 4: Dillon (hosting) | Sarah | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 9
+GROUP 1: Christopher (hosting) | Molly | Patrick | Monica | Taira | Jose, Audrey
+GROUP 2: Bridget (hosting) | Nick | Nathan | David | Georgia | Sarah | Scott
+GROUP 3: Dillon (hosting) | Edgar, Fidelma | Myah | Veronica | Tyler | Zane
+GROUP 4: Michael, Ann (hosting) | Oscar | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 10
+GROUP 1: Bridget (hosting) | Molly | Patrick | Monica | Taira | Jose, Audrey
+GROUP 2: Dillon (hosting) | Nick | Nathan | David | Christopher | Georgia | Oscar | Scott
+GROUP 3: Michael, Ann (hosting) | Myah | Veronica | Tyler | Zane | Sarah
+GROUP 4: Edgar, Fidelma (hosting) | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 11
+GROUP 1: Dillon (hosting) | Molly | Patrick | Monica | Taira | Jose, Audrey
+GROUP 2: Michael, Ann (hosting) | Nick | Nathan | David | Christopher | Bridget | Scott
+GROUP 3: Edgar, Fidelma (hosting) | Myah | Veronica | Tyler | Zane | Oscar
+GROUP 4: Georgia (hosting) | Sarah | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 12
+GROUP 1: Michael, Ann (hosting) | Molly | Patrick | Monica | Taira | Dillon
+GROUP 2: Edgar, Fidelma (hosting) | Jose, Audrey | Nick | Nathan | David | Scott
+GROUP 3: Georgia (hosting) | Christopher | Bridget | Veronica | Tyler | Zane | Oscar
+GROUP 4: Myah (hosting) | Sarah | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 13
+GROUP 1: Edgar, Fidelma (hosting) | Molly | Patrick | Monica | Taira | Christopher
+GROUP 2: Georgia (hosting) | Jose, Audrey | Nick | Nathan | David | Dillon | Scott
+GROUP 3: Myah (hosting) | Bridget | Michael, Ann | Tyler | Zane | Oscar
+GROUP 4: Veronica (hosting) | Sarah | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 14
+GROUP 1: Georgia (hosting) | Molly | Patrick | Monica | Taira | Michael, Ann
+GROUP 2: Myah (hosting) | Jose, Audrey | Nick | Nathan | David | Christopher | Scott
+GROUP 3: Veronica (hosting) | Bridget | Dillon | Edgar, Fidelma | Zane | Oscar
+GROUP 4: Tyler (hosting) | Sarah | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 15
+GROUP 1: Myah (hosting) | Molly | Patrick | Monica | Taira | Dillon | Georgia
+GROUP 2: Veronica (hosting) | Jose, Audrey | Nick | Nathan | David | Christopher | Scott
+GROUP 3: Tyler (hosting) | Bridget | Michael, Ann | Edgar, Fidelma | Oscar
+GROUP 4: Zane (hosting) | Sarah | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 16
+GROUP 1: Veronica (hosting) | Molly | Patrick | Monica | Taira | Michael, Ann
+GROUP 2: Tyler (hosting) | Jose, Audrey | Nick | Nathan | David | Christopher | Scott
+GROUP 3: Zane (hosting) | Bridget | Dillon | Edgar, Fidelma | Georgia | Myah
+GROUP 4: Oscar (hosting) | Sarah | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 17
+GROUP 1: Tyler (hosting) | Molly | Patrick | Monica | Taira | Dillon | Georgia
+GROUP 2: Zane (hosting) | Jose, Audrey | Nick | Nathan | David | Christopher | Scott
+GROUP 3: Oscar (hosting) | Bridget | Michael, Ann | Edgar, Fidelma | Myah
+GROUP 4: Sarah (hosting) | Veronica | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 18
+GROUP 1: Zane (hosting) | Molly | Patrick | Monica | Taira | Michael, Ann
+GROUP 2: Oscar (hosting) | Jose, Audrey | Nick | Nathan | David | Christopher | Scott
+GROUP 3: Sarah (hosting) | Bridget | Dillon | Edgar, Fidelma | Georgia | Myah
+GROUP 4: Bianca, Jacob (hosting) | Veronica | Tyler | Josiah | Mia | Pharah
+
+WEEK 19
+GROUP 1: Oscar (hosting) | Molly | Patrick | Monica | Taira | Dillon | Georgia
+GROUP 2: Sarah (hosting) | Jose, Audrey | Nick | Nathan | David | Christopher | Scott
+GROUP 3: Bianca, Jacob (hosting) | Bridget | Michael, Ann | Edgar, Fidelma
+GROUP 4: Josiah (hosting) | Myah | Veronica | Tyler | Zane | Mia | Pharah
+
+WEEK 20
+GROUP 1: Sarah (hosting) | Molly | Patrick | Monica | Taira | Michael, Ann
+GROUP 2: Bianca, Jacob (hosting) | Jose, Audrey | Nick | Nathan | David | Scott
+GROUP 3: Josiah (hosting) | Christopher | Bridget | Dillon | Edgar, Fidelma | Georgia
+GROUP 4: Mia (hosting) | Myah | Veronica | Tyler | Zane | Oscar | Pharah
+
+WEEK 21
+GROUP 1: Bianca, Jacob (hosting) | Molly | Patrick | Monica | Taira | Christopher
+GROUP 2: Josiah (hosting) | Jose, Audrey | Nick | Nathan | David | Oscar | Scott
+GROUP 3: Mia (hosting) | Bridget | Dillon | Michael, Ann | Edgar, Fidelma
+GROUP 4: Pharah (hosting) | Georgia | Myah | Veronica | Tyler | Zane | Sarah
+
+WEEK 22
+GROUP 1: Josiah (hosting) | Molly | Patrick | Monica | Taira | Michael, Ann
+GROUP 2: Mia (hosting) | Jose, Audrey | Nick | Nathan | David | Christopher
+GROUP 3: Pharah (hosting) | Bridget | Dillon | Edgar, Fidelma | Oscar | Bianca, Jacob
+GROUP 4: Scott (hosting) | Georgia | Myah | Veronica | Tyler | Zane | Sarah
+
+WEEK 23
+GROUP 1: Mia (hosting) | Patrick | Monica | Taira | Georgia | Sarah | Josiah
+GROUP 2: Pharah (hosting) | Jose, Audrey | Nick | Nathan | David | Christopher
+GROUP 3: Scott (hosting) | Bridget | Dillon | Michael, Ann | Edgar, Fidelma
+GROUP 4: Molly (hosting) | Myah | Veronica | Tyler | Zane | Oscar | Bianca, Jacob
+
+WEEK 24
+GROUP 1: Pharah (hosting) | Monica | Taira | Michael, Ann | Josiah | Mia
+GROUP 2: Scott (hosting) | Jose, Audrey | Nick | Nathan | David | Christopher
+GROUP 3: Molly (hosting) | Bridget | Dillon | Edgar, Fidelma | Georgia | Sarah
+GROUP 4: Patrick (hosting) | Myah | Veronica | Tyler | Zane | Oscar | Bianca, Jacob
+
+WEEK 25
+GROUP 1: Scott (hosting) | Taira | Oscar | Bianca, Jacob | Josiah | Mia
+GROUP 2: Molly (hosting) | Michael, Ann | Pharah | Nathan | David | Christopher
+GROUP 3: Patrick (hosting) | Jose, Audrey | Sarah | Bridget | Dillon | Edgar, Fidelma
+GROUP 4: Monica (hosting) | Nick | Georgia | Myah | Veronica | Tyler | Zane
+
+WEEK 26
+GROUP 1: Molly (hosting) | Josiah | Mia | David | Christopher | Bridget | Dillon | Sarah
+GROUP 2: Patrick (hosting) | Scott | Michael, Ann | Edgar, Fidelma | Georgia
+GROUP 3: Monica (hosting) | Jose, Audrey | Bianca, Jacob | Pharah | Myah
+GROUP 4: Taira (hosting) | Nick | Nathan | Veronica | Tyler | Zane | Oscar
+
+WEEK 27
+GROUP 1: Patrick (hosting) | Josiah | Mia | Molly | Christopher | Bridget | Dillon
+GROUP 2: Monica (hosting) | Michael, Ann | Georgia | Myah | Veronica | Tyler
+GROUP 3: Taira (hosting) | Zane | Oscar | Sarah | Bianca, Jacob | Scott
+GROUP 4: Jose, Audrey (hosting) | Nick | Nathan | David | Edgar, Fidelma | Pharah
+
+WEEK 28
+GROUP 1: Monica (hosting) | Josiah | Mia | Molly | Patrick | Bridget | Dillon | Scott
+GROUP 2: Taira (hosting) | Michael, Ann | Edgar, Fidelma | Georgia | Myah
+GROUP 3: Jose, Audrey (hosting) | Veronica | Tyler | Zane | Oscar | Sarah
+GROUP 4: Nick (hosting) | Nathan | David | Christopher | Bianca, Jacob | Pharah
+
+WEEK 29
+GROUP 1: Taira (hosting) | Molly | Patrick | Monica | Bridget | Dillon | Michael, Ann
+GROUP 2: Jose, Audrey (hosting) | Edgar, Fidelma | Georgia | Myah | Veronica
+GROUP 3: Nick (hosting) | Tyler | Zane | Oscar | Sarah | Bianca, Jacob
+GROUP 4: Nathan (hosting) | David | Christopher | Josiah | Mia | Pharah | Scott
+
+WEEK 30
+GROUP 1: Jose, Audrey (hosting) | Molly | Patrick | Monica | Taira | Dillon
+GROUP 2: Nick (hosting) | Michael, Ann | Edgar, Fidelma | Georgia | Myah
+GROUP 3: Nathan (hosting) | Veronica | Tyler | Zane | Oscar | Sarah | Bianca, Jacob
+GROUP 4: David (hosting) | Christopher | Bridget | Josiah | Mia | Pharah | Scott
+
+WEEK 31
+GROUP 1: Nick (hosting) | Molly | Patrick | Monica | Taira | Jose, Audrey
+GROUP 2: Nathan (hosting) | Michael, Ann | Edgar, Fidelma | Georgia | Myah
+GROUP 3: David (hosting) | Veronica | Tyler | Zane | Oscar | Sarah | Bianca, Jacob
+GROUP 4: Christopher (hosting) | Bridget | Dillon | Josiah | Mia | Pharah | Scott
+
+WEEK 32
+GROUP 1: Nathan (hosting) | Nick | Molly | Patrick | Monica | Taira | Jose, Audrey
+GROUP 2: David (hosting) | Edgar, Fidelma | Georgia | Myah | Veronica | Tyler
+GROUP 3: Christopher (hosting) | Zane | Oscar | Sarah | Bianca, Jacob | Josiah
+GROUP 4: Bridget (hosting) | Dillon | Michael, Ann | Mia | Pharah | Scott
+
+WEEK 33
+GROUP 1: David (hosting) | Nathan | Molly | Patrick | Monica | Taira | Jose, Audrey
+GROUP 2: Christopher (hosting) | Nick | Edgar, Fidelma | Georgia | Myah | Veronica
+GROUP 3: Bridget (hosting) | Tyler | Zane | Oscar | Sarah | Bianca, Jacob
+GROUP 4: Dillon (hosting) | Michael, Ann | Josiah | Mia | Pharah | Scott
+
+WEEK 34
+GROUP 1: Christopher (hosting) | David | Molly | Patrick | Monica | Taira | Nick | Scott
+GROUP 2: Bridget (hosting) | Nathan | Myah | Veronica | Tyler | Zane | Oscar
+GROUP 3: Dillon (hosting) | Sarah | Bianca, Jacob | Josiah | Mia | Pharah
+GROUP 4: Michael, Ann (hosting) | Jose, Audrey | Edgar, Fidelma | Georgia
+
+WEEK 35
+GROUP 1: Bridget (hosting) | Christopher | Molly | Patrick | Monica | Taira | Jose, Audrey
+GROUP 2: Dillon (hosting) | Nick | Nathan | David | Myah | Veronica | Tyler
+GROUP 3: Michael, Ann (hosting) | Zane | Oscar | Bianca, Jacob | Josiah
+GROUP 4: Edgar, Fidelma (hosting) | Georgia | Sarah | Mia | Pharah | Scott
+
+WEEK 36
+GROUP 1: Dillon (hosting) | Bridget | Molly | Patrick | Monica | Taira | Jose, Audrey
+GROUP 2: Michael, Ann (hosting) | Nick | Nathan | David | Christopher | Veronica
+GROUP 3: Edgar, Fidelma (hosting) | Tyler | Zane | Oscar | Sarah | Bianca, Jacob
+GROUP 4: Georgia (hosting) | Myah | Josiah | Mia | Pharah | Scott
+
+WEEK 37
+GROUP 1: Michael, Ann (hosting) | Molly | Patrick | Monica | Taira | Jose, Audrey
+GROUP 2: Edgar, Fidelma (hosting) | Bridget | Dillon | Nick | Nathan | David
+GROUP 3: Georgia (hosting) | Christopher | Tyler | Zane | Oscar | Sarah | Bianca, Jacob
+GROUP 4: Myah (hosting) | Veronica | Josiah | Mia | Pharah | Scott
+
+WEEK 38
+GROUP 1: Edgar, Fidelma (hosting) | Michael, Ann | Molly | Patrick | Monica | Scott
+GROUP 2: Georgia (hosting) | Taira | Jose, Audrey | Nick | Nathan | David
+GROUP 3: Myah (hosting) | Christopher | Bridget | Dillon | Zane | Oscar | Sarah
+GROUP 4: Veronica (hosting) | Tyler | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 39
+GROUP 1: Georgia (hosting) | Edgar, Fidelma | Molly | Patrick | Monica | Taira | Scott
+GROUP 2: Myah (hosting) | Jose, Audrey | Nick | Nathan | David | Christopher
+GROUP 3: Veronica (hosting) | Bridget | Dillon | Michael, Ann | Oscar | Sarah
+GROUP 4: Tyler (hosting) | Zane | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 40
+GROUP 1: Myah (hosting) | Edgar, Fidelma | Molly | Patrick | Monica | Taira | Scott
+GROUP 2: Veronica (hosting) | Georgia | Jose, Audrey | Nick | Nathan | David
+GROUP 3: Tyler (hosting) | Christopher | Bridget | Dillon | Michael, Ann | Sarah
+GROUP 4: Zane (hosting) | Oscar | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 41
+GROUP 1: Veronica (hosting) | Myah | Molly | Patrick | Monica | Taira | Jose, Audrey
+GROUP 2: Tyler (hosting) | Nick | Nathan | David | Christopher | Bridget | Dillon
+GROUP 3: Zane (hosting) | Michael, Ann | Edgar, Fidelma | Georgia | Sarah
+GROUP 4: Oscar (hosting) | Bianca, Jacob | Josiah | Mia | Pharah | Scott
+
+WEEK 42
+GROUP 1: Tyler (hosting) | Myah | Veronica | Molly | Patrick | Monica | Taira | Scott
+GROUP 2: Zane (hosting) | Jose, Audrey | Nick | Nathan | David | Christopher
+GROUP 3: Oscar (hosting) | Bridget | Dillon | Michael, Ann | Edgar, Fidelma
+GROUP 4: Sarah (hosting) | Georgia | Bianca, Jacob | Josiah | Mia | Pharah
+
+WEEK 43
+GROUP 1: Zane (hosting) | Veronica | Tyler | Molly | Patrick | Monica | Taira | Scott
+GROUP 2: Oscar (hosting) | Jose, Audrey | Nick | Nathan | David | Christopher
+GROUP 3: Sarah (hosting) | Bridget | Michael, Ann | Edgar, Fidelma | Josiah
+GROUP 4: Bianca, Jacob (hosting) | Dillon | Georgia | Myah | Mia | Pharah
+
+WEEK 44
+GROUP 1: Oscar (hosting) | Veronica | Tyler | Zane | Molly | Patrick | Monica | Scott
+GROUP 2: Sarah (hosting) | Taira | Jose, Audrey | Nick | Nathan | David
+GROUP 3: Bianca, Jacob (hosting) | Christopher | Bridget | Dillon | Michael, Ann
+GROUP 4: Josiah (hosting) | Edgar, Fidelma | Georgia | Myah | Mia | Pharah
+
+WEEK 45
+GROUP 1: Sarah (hosting) | Tyler | Zane | Oscar | Patrick | Monica | Taira
+GROUP 2: Bianca, Jacob (hosting) | Jose, Audrey | Nick | Nathan | David
+GROUP 3: Josiah (hosting) | Christopher | Bridget | Dillon | Michael, Ann | Edgar, Fidelma
+GROUP 4: Mia (hosting) | Molly | Scott | Georgia | Myah | Veronica | Pharah
+
+WEEK 46
+GROUP 1: Bianca, Jacob (hosting) | Zane | Oscar | Sarah | Monica | Taira | Tyler
+GROUP 2: Josiah (hosting) | Jose, Audrey | Nick | Nathan | David | Christopher
+GROUP 3: Mia (hosting) | Bridget | Dillon | Michael, Ann | Edgar, Fidelma
+GROUP 4: Pharah (hosting) | Molly | Patrick | Scott | Georgia | Myah | Veronica
+
+WEEK 47
+GROUP 1: Josiah (hosting) | Sarah | Bianca, Jacob | Taira | Jose, Audrey | Oscar
+GROUP 2: Mia (hosting) | Nick | Nathan | David | Christopher | Bridget | Dillon
+GROUP 3: Pharah (hosting) | Michael, Ann | Edgar, Fidelma | Georgia | Myah
+GROUP 4: Scott (hosting) | Molly | Patrick | Monica | Veronica | Tyler | Zane
+
+WEEK 48
+GROUP 1: Mia (hosting) | Bianca, Jacob | Jose, Audrey | Nick | Nathan | Josiah
+GROUP 2: Pharah (hosting) | David | Christopher | Bridget | Dillon | Michael, Ann
+GROUP 3: Scott (hosting) | Edgar, Fidelma | Georgia | Myah | Veronica | Tyler
+GROUP 4: Molly (hosting) | Patrick | Monica | Taira | Zane | Oscar | Sarah
+
+WEEK 49
+GROUP 1: Pharah (hosting) | Jose, Audrey | Nick | Nathan | David | Christopher | Mia
+GROUP 2: Scott (hosting) | Bridget | Dillon | Michael, Ann | Edgar, Fidelma
+GROUP 3: Molly (hosting) | Georgia | Myah | Veronica | Tyler | Zane | Oscar
+GROUP 4: Patrick (hosting) | Monica | Taira | Sarah | Bianca, Jacob | Josiah
+
+WEEK 50
+GROUP 1: Scott (hosting) | Pharah | Jose, Audrey | Nick | Nathan | David
+GROUP 2: Molly (hosting) | Christopher | Bridget | Dillon | Michael, Ann | Edgar, Fidelma
+GROUP 3: Patrick (hosting) | Georgia | Myah | Veronica | Tyler | Zane | Oscar
+GROUP 4: Monica (hosting) | Taira | Sarah | Bianca, Jacob | Josiah | Mia
+
+WEEK 51
+GROUP 1: Molly (hosting) | Nick | Nathan | David | Christopher | Bridget | Dillon
+GROUP 2: Patrick (hosting) | Michael, Ann | Edgar, Fidelma | Georgia | Myah
+GROUP 3: Monica (hosting) | Veronica | Tyler | Zane | Oscar | Sarah | Bianca, Jacob
+GROUP 4: Taira (hosting) | Jose, Audrey | Josiah | Mia | Pharah | Scott

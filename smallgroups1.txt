@@ -1,0 +1,140 @@
+SMALLGROUP ASSIGNMENTS:
+WEEK 1
+GROUP 1: Mary (hosting) | Mark, Molly | Fidelma | Patrick | Buster
+GROUP 2: Chris (hosting) | Bart | Henry | Carl | Anthony
+GROUP 3: Katie (hosting) | Pascal | Moses, Esther | Josey
+
+WEEK 2
+GROUP 1: Chris (hosting) | Mary | Fidelma | Patrick | Pascal | Buster
+GROUP 2: Katie (hosting) | Bart | Henry | Carl | Anthony
+GROUP 3: Mark, Molly (hosting) | Moses, Esther | Josey
+
+WEEK 3
+GROUP 1: Katie (hosting) | Mary | Chris | Patrick | Buster
+GROUP 2: Mark, Molly (hosting) | Bart | Henry | Carl
+GROUP 3: Fidelma (hosting) | Anthony | Pascal | Moses, Esther | Josey
+
+WEEK 4
+GROUP 1: Mark, Molly (hosting) | Mary | Chris | Katie
+GROUP 2: Fidelma (hosting) | Bart | Henry | Carl | Buster
+GROUP 3: Patrick (hosting) | Anthony | Pascal | Moses, Esther | Josey
+
+WEEK 5
+GROUP 1: Fidelma (hosting) | Mary | Chris | Katie | Josey
+GROUP 2: Patrick (hosting) | Mark, Molly | Henry | Carl | Buster
+GROUP 3: Bart (hosting) | Anthony | Pascal | Moses, Esther
+
+WEEK 6
+GROUP 1: Patrick (hosting) | Mary | Chris | Katie | Fidelma
+GROUP 2: Bart (hosting) | Mark, Molly | Carl | Josey | Buster
+GROUP 3: Henry (hosting) | Anthony | Pascal | Moses, Esther
+
+WEEK 7
+GROUP 1: Bart (hosting) | Mary | Chris | Katie | Fidelma
+GROUP 2: Henry (hosting) | Mark, Molly | Patrick | Josey | Buster
+GROUP 3: Carl (hosting) | Anthony | Pascal | Moses, Esther
+
+WEEK 8
+GROUP 1: Henry (hosting) | Mary | Chris | Katie | Fidelma
+GROUP 2: Carl (hosting) | Mark, Molly | Patrick | Bart | Buster
+GROUP 3: Anthony (hosting) | Pascal | Moses, Esther | Josey
+
+WEEK 9
+GROUP 1: Carl (hosting) | Mary | Chris | Katie | Fidelma
+GROUP 2: Anthony (hosting) | Mark, Molly | Patrick | Bart | Buster
+GROUP 3: Pascal (hosting) | Henry | Moses, Esther | Josey
+
+WEEK 10
+GROUP 1: Anthony (hosting) | Mary | Chris | Katie | Fidelma
+GROUP 2: Pascal (hosting) | Mark, Molly | Patrick | Bart | Buster
+GROUP 3: Moses, Esther (hosting) | Henry | Carl | Josey
+
+WEEK 11
+GROUP 1: Pascal (hosting) | Mary | Chris | Katie | Fidelma
+GROUP 2: Moses, Esther (hosting) | Mark, Molly | Patrick | Buster
+GROUP 3: Josey (hosting) | Bart | Henry | Carl | Anthony
+
+WEEK 12
+GROUP 1: Moses, Esther (hosting) | Mary | Chris | Katie | Pascal
+GROUP 2: Josey (hosting) | Mark, Molly | Fidelma | Patrick
+GROUP 3: Buster (hosting) | Bart | Henry | Carl | Anthony
+
+WEEK 13
+GROUP 1: Josey (hosting) | Chris | Katie | Pascal | Moses, Esther
+GROUP 2: Buster (hosting) | Mark, Molly | Fidelma | Patrick
+GROUP 3: Mary (hosting) | Bart | Henry | Carl | Anthony
+
+WEEK 14
+GROUP 1: Buster (hosting) | Katie | Pascal | Moses, Esther | Anthony
+GROUP 2: Mary (hosting) | Josey | Fidelma | Patrick | Bart
+GROUP 3: Chris (hosting) | Mark, Molly | Henry | Carl
+
+WEEK 15
+GROUP 1: Mary (hosting) | Pascal | Moses, Esther | Patrick | Buster
+GROUP 2: Chris (hosting) | Josey | Bart | Henry | Carl
+GROUP 3: Katie (hosting) | Mark, Molly | Fidelma | Anthony
+
+WEEK 16
+GROUP 1: Chris (hosting) | Moses, Esther | Mary | Bart
+GROUP 2: Katie (hosting) | Henry | Carl | Josey | Pascal
+GROUP 3: Mark, Molly (hosting) | Fidelma | Patrick | Anthony | Buster
+
+WEEK 17
+GROUP 1: Katie (hosting) | Mary | Chris | Bart | Henry | Buster
+GROUP 2: Mark, Molly (hosting) | Pascal | Carl | Anthony
+GROUP 3: Fidelma (hosting) | Patrick | Moses, Esther | Josey
+
+WEEK 18
+GROUP 1: Mark, Molly (hosting) | Mary | Chris | Katie | Buster
+GROUP 2: Fidelma (hosting) | Henry | Carl | Anthony | Pascal
+GROUP 3: Patrick (hosting) | Bart | Moses, Esther | Josey
+
+WEEK 19
+GROUP 1: Fidelma (hosting) | Mark, Molly | Mary | Chris | Buster
+GROUP 2: Patrick (hosting) | Katie | Carl | Anthony | Pascal
+GROUP 3: Bart (hosting) | Henry | Moses, Esther | Josey
+
+WEEK 20
+GROUP 1: Patrick (hosting) | Mary | Chris | Katie | Mark, Molly
+GROUP 2: Bart (hosting) | Fidelma | Anthony | Pascal | Moses, Esther
+GROUP 3: Henry (hosting) | Carl | Josey | Buster
+
+WEEK 21
+GROUP 1: Bart (hosting) | Patrick | Mary | Chris | Katie | Buster
+GROUP 2: Henry (hosting) | Mark, Molly | Fidelma | Anthony
+GROUP 3: Carl (hosting) | Josey | Pascal | Moses, Esther
+
+WEEK 22
+GROUP 1: Henry (hosting) | Bart | Mary | Chris | Katie | Buster
+GROUP 2: Carl (hosting) | Mark, Molly | Fidelma | Patrick
+GROUP 3: Anthony (hosting) | Pascal | Moses, Esther | Josey
+
+WEEK 23
+GROUP 1: Carl (hosting) | Henry | Mary | Chris | Katie | Buster
+GROUP 2: Anthony (hosting) | Mark, Molly | Fidelma | Patrick
+GROUP 3: Pascal (hosting) | Bart | Moses, Esther | Josey
+
+WEEK 24
+GROUP 1: Anthony (hosting) | Henry | Carl | Mary | Chris | Buster
+GROUP 2: Pascal (hosting) | Katie | Mark, Molly | Patrick
+GROUP 3: Moses, Esther (hosting) | Fidelma | Bart | Josey
+
+WEEK 25
+GROUP 1: Pascal (hosting) | Carl | Anthony | Chris | Katie | Henry
+GROUP 2: Moses, Esther (hosting) | Mark, Molly | Fidelma
+GROUP 3: Josey (hosting) | Mary | Buster | Patrick | Bart
+
+WEEK 26
+GROUP 1: Moses, Esther (hosting) | Anthony | Katie | Mark, Molly
+GROUP 2: Josey (hosting) | Fidelma | Patrick | Bart | Henry
+GROUP 3: Buster (hosting) | Mary | Chris | Carl | Pascal
+
+WEEK 27
+GROUP 1: Josey (hosting) | Mark, Molly | Fidelma | Patrick
+GROUP 2: Buster (hosting) | Bart | Henry | Carl | Anthony
+GROUP 3: Mary (hosting) | Chris | Katie | Pascal | Moses, Esther
+
+WEEK 28
+GROUP 1: Buster (hosting) | Josey | Mark, Molly | Fidelma
+GROUP 2: Mary (hosting) | Patrick | Bart | Henry | Carl
+GROUP 3: Chris (hosting) | Katie | Anthony | Pascal | Moses, Esther
